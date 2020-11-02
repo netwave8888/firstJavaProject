@@ -1,0 +1,7 @@
+package com.in28minutes.jpa.hibernate.demo.repository;
+
+public class CourseRepository {
+	
+	
+	
+}
